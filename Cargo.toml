@@ -1,0 +1,15 @@
+[package]
+name = "rust"
+version = "0.1.0"
+edition = "2018"
+autobins = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ferris-says = "0.2"
+float-ord = "0.3.2"
+libc = "0.2.99"
+cpu-time = "1.0.0"
+
+

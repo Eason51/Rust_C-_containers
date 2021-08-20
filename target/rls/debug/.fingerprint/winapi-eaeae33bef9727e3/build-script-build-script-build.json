@@ -1,0 +1,1 @@
+{"rustc":4721438020156434217,"features":"[\"minwindef\", \"processthreadsapi\"]","target":10088282520713642473,"profile":13719610756125836611,"path":3389285382028276748,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\winapi-eaeae33bef9727e3\\dep-build-script-build-script-build"}}],"rustflags":[],"metadata":16266002775178098827,"config":0,"compile_kind":0}
